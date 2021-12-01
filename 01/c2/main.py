@@ -1,4 +1,4 @@
-infile = open('1\c2\infile.txt', 'r')
+infile = open('01\c2\infile.txt', 'r')
 infile = [int(i) for i in infile.read().splitlines()]
 
 depths = []
